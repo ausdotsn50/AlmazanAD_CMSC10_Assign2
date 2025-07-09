@@ -7,4 +7,4 @@
 ## 🕹️ Navigation
 ### Click 'playlist' on Home Page to view the Playlist Page
 
-## 📺 Live at: https://adzalmazan1.github.io/AlmazanAD_CMSC10_Assign2/
+## 📺 Live at: https://ausdotsn50.github.io/AlmazanAD_CMSC10_Assign2/
